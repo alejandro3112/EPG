@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="animalidades"><display-name>ANIMALIDADES</display-name></channel>
+  <programme start="20260101060000 -0500" stop="20260101064500 -0500" channel="animalidades">
+    <title>Captain Tsubasa</title>
+    <desc>Historia de Tsubasa Ōzora, un niño de 11 años apasionado por el fútbol que sueña con ganar la Copa del Mundo para Japón</desc>
+  </programme>
+  <programme start="20260101064500 -0500" stop="20260101073000 -0500" channel="animalidades">
+    <title> SAKURA CARP CAPTOR!</title>
+    <desc>Sakura Kinomoto libera accidentalmente cartas mágicas que causan estragos. Con la ayuda de sus amigos y el guardián Kerberos, debe recuperarlas y crecer como maga mientras enfrenta retos emocionales.</desc>
+  </programme>
+  <programme start="20260101073000 -0500" stop="20260101081500 -0500" channel="animalidades">
+    <title>METABOTS</title>
+    <desc>En un futuro donde niños compiten con robots llamados Metabots, Ikki obtiene a Metabee, un rebelde Metabot con mucha actitud. Juntos compiten en torneos y enfrentan a la misteriosa RubberRobo Gang.</desc>
+  </programme>
+  <programme start="20260101081500 -0500" stop="20260101090500 -0500" channel="animalidades">
+    <title>El Maravilloso Mago de Oz</title>
+    <desc>Se centra en Dorothy, una niña que es arrastrada con su perro Toto por un tornado a la mágica tierra de Oz. Para regresar a casa, debe viajar a la Ciudad Esmeralda para pedirle ayuda al Gran Mago de Oz, y en su camino, conoce a un Espantapájaros que desea un cerebro, un Hombre de Hojalata que anhela un corazón y un León Cobarde que busca valentía. Juntos, emprenden el viaje, enfrentándose a peligros y a la malvada bruja del oeste</desc>
+  </programme>
+  <programme start="20260101090500 -0500" stop="20260101095000 -0500" channel="animalidades">
+    <title>Heidi</title>
+    <desc>Heidi es una niña huérfana que se muda a los Alpes suizos para vivir con su abuelo, un ermitaño. Allí, se adapta a la vida en la montaña, se hace amiga del pastor Pedro y de su cabra, y llena de alegría la vida de su abuelo, quien al principio se mostraba reticente. Posteriormente, es llevada a Frankfurt para hacerle compañía a Clara, una niña rica y enferma que está en silla de ruedas, pero extraña su hogar en la montaña, lo que la lleva a un estado de melancolía</desc>
+  </programme>
+  <programme start="20260101095000 -0500" stop="20260101104000 -0500" channel="animalidades">
+    <title>DIGIMON</title>
+    <desc>Siete niños son transportados al Mundo Digital donde se asocian con Digimon para enfrentar amenazas que buscan destruir ambos mundos. A través de aventuras y batallas, fortalecen su vínculo y maduran.</desc>
+  </programme>
+  <programme start="20260101233000 -0500" stop="20260102122000 -0500" channel="animalidades">
+    <title>DIGIMON 2</title>
+    <desc>Davis Motomiya, un valiente líder de los nuevos DigiDestined, se une a su Digimon, Veemon, para proteger el Mundo Digital y el mundo real. Con la habilidad de realizar Digi-evoluciones, enfrenta a enemigos como el Emperador Digimon y criaturas malignas. Junto a sus amigos, supera desafíos de trabajo en equipo y descubre el poder de la amistad y la responsabilidad.</desc>
+  </programme>
+  <programme start="20260101131000 -0500" stop="20260101140000 -0500" channel="animalidades">
+    <title>EVANGELION</title>
+    <desc>Un futuro postapocalíptico donde adolescentes deben pilotar robots gigantes llamados Evangelions para defender a la humanidad de misteriosas criaturas alienígenas conocidas como "Ángeles"</desc>
+  </programme>
+</tv>
